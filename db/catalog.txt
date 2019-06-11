@@ -6,3 +6,5 @@ CREATE TABLE publishers (
     phone TEXT
 );
 
+
+insert into publishers values('Apress','info@apress.com','9585855')
